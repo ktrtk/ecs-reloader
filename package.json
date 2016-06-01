@@ -1,0 +1,22 @@
+{
+  "name": "ecs-reloader",
+  "version": "1.0.0",
+  "description": "reload single ecs container using aws command-line tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "reload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktrtk/ecs-reloader.git"
+  },
+  "keywords": [
+    "ecs"
+  ],
+  "author": "ktrtk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktrtk/ecs-reloader/issues"
+  },
+  "homepage": "https://github.com/ktrtk/ecs-reloader#readme"
+}
